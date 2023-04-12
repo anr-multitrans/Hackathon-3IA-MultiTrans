@@ -1,0 +1,4 @@
+{
+    "cmake.configureOnOpen": false,
+    "cmake.sourceDirectory": "${workspaceFolder}/src/hackaton_voiture_autonome-master/imredd_pkg"
+}

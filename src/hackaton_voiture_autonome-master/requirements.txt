@@ -1,0 +1,6 @@
+torch
+easydict
+torchsummary
+matplotlib
+tqdm
+torcheval
